@@ -1,5 +1,5 @@
 hello git, this is fucking gene!
-
+this is hot-fix branch!:
 hello git, this is fucking gene!
 hello git, this is fucking gene!
 hello git, this is fucking gene!
